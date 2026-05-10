@@ -19,7 +19,7 @@ Perguntas e respostas geradas pelo NotebookLM sobre phyton com base nas fontes:
 
 5- https://youtu.be/3J1xBL7zJXg?si=8y7KS3ewpcIFtwGq
 
-6- fontes de tezto:https://python.org.br/introducao/
+6- https://python.org.br/introducao/
 
 7- https://www.devmedia.com.br/guia/python/37024
 
@@ -29,7 +29,7 @@ Perguntas e respostas geradas pelo NotebookLM sobre phyton com base nas fontes:
 
 10- https://www.facom.ufu.br/~william/Disciplinas%202019-1/BIOTCH-GBT017-IntoducaoInformatica/285173966-aprendendo-python-pdf.pdf
 
-Exemplo 1 de pergunta ai NotebookLM e sua devida resposta.
+Exemplo 1 de pergunta a NotebookLM e sua devida resposta.
 
 Quais bibliotecas de dados e IA são mais recomendadas?
 
